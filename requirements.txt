@@ -1,0 +1,7 @@
+faker
+snowflake-connector-python
+pandas
+pyarrow
+great_expectations[snowflake]
+sqlalchemy
+snowflake-sqlalchemy

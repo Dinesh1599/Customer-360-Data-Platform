@@ -1,0 +1,9 @@
+{
+  "account": "accountID",
+  "user": "yourname",
+  "password": "your password",
+  "warehouse": "COMPUTE_WH",
+  "database": "CUSTOMER360",
+  "schema": "PUBLIC",
+  "role": "ACCOUNTADMIN"
+}

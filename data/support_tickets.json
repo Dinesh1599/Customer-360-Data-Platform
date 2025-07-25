@@ -1,0 +1,802 @@
+[
+  {
+    "ticket_id": "TK0",
+    "customer_id": 4,
+    "issue": "Mention sort call radio economic want.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "2002-04-05T16:37:30.714295"
+  },
+  {
+    "ticket_id": "TK1",
+    "customer_id": 88,
+    "issue": "Like company light possible.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2016-07-24T08:04:18.662025"
+  },
+  {
+    "ticket_id": "TK2",
+    "customer_id": 65,
+    "issue": "Player training put according offer realize.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "1994-10-04T12:01:59.917515"
+  },
+  {
+    "ticket_id": "TK3",
+    "customer_id": 7,
+    "issue": "Share in organization anything.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "2007-01-01T05:25:06.855413"
+  },
+  {
+    "ticket_id": "TK4",
+    "customer_id": 56,
+    "issue": "Others human foot officer huge sometimes no.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "1978-04-10T17:33:42.776116"
+  },
+  {
+    "ticket_id": "TK5",
+    "customer_id": 12,
+    "issue": "Treat mission night stuff teacher read.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2016-10-08T22:45:04.906551"
+  },
+  {
+    "ticket_id": "TK6",
+    "customer_id": 37,
+    "issue": "Identify together series ask option institution front.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2025-04-10T13:36:56.296310"
+  },
+  {
+    "ticket_id": "TK7",
+    "customer_id": 72,
+    "issue": "As party argue special attack.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1985-07-07T17:49:09.310981"
+  },
+  {
+    "ticket_id": "TK8",
+    "customer_id": 15,
+    "issue": "Speak its everybody fly born suffer boy lawyer.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "2002-10-29T06:06:46.197562"
+  },
+  {
+    "ticket_id": "TK9",
+    "customer_id": 34,
+    "issue": "Example evidence charge force best.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2015-04-27T04:23:47.060663"
+  },
+  {
+    "ticket_id": "TK10",
+    "customer_id": 5,
+    "issue": "Skill wonder century write.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "2021-06-21T17:53:08.582004"
+  },
+  {
+    "ticket_id": "TK11",
+    "customer_id": 4,
+    "issue": "Get others along along.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2015-01-26T16:08:49.976765"
+  },
+  {
+    "ticket_id": "TK12",
+    "customer_id": 76,
+    "issue": "Business imagine partner development.",
+    "category": "Billing",
+    "status": "closed",
+    "created_at": "2011-09-19T04:38:01.629437"
+  },
+  {
+    "ticket_id": "TK13",
+    "customer_id": 71,
+    "issue": "Believe throughout time toward former.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1973-02-04T04:52:20.676545"
+  },
+  {
+    "ticket_id": "TK14",
+    "customer_id": 65,
+    "issue": "Employee half per young true Congress front.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "1984-12-28T17:18:54.801806"
+  },
+  {
+    "ticket_id": "TK15",
+    "customer_id": 69,
+    "issue": "Woman leader news reason threat.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1976-06-25T06:44:36.817021"
+  },
+  {
+    "ticket_id": "TK16",
+    "customer_id": 16,
+    "issue": "Happen prepare kind major these find.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1979-08-21T17:59:31.633261"
+  },
+  {
+    "ticket_id": "TK17",
+    "customer_id": 52,
+    "issue": "In today name consumer in general.",
+    "category": "Billing",
+    "status": "closed",
+    "created_at": "2015-11-07T18:55:47.226120"
+  },
+  {
+    "ticket_id": "TK18",
+    "customer_id": 87,
+    "issue": "Check network land maintain future.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2002-06-12T11:50:21.875299"
+  },
+  {
+    "ticket_id": "TK19",
+    "customer_id": 35,
+    "issue": "Run protect him around.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "2004-03-19T19:32:48.963403"
+  },
+  {
+    "ticket_id": "TK20",
+    "customer_id": 3,
+    "issue": "Focus turn market water black assume join.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "1987-05-17T11:03:15.455253"
+  },
+  {
+    "ticket_id": "TK21",
+    "customer_id": 63,
+    "issue": "Decide property goal good rule important I.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "1993-12-13T18:54:58.317203"
+  },
+  {
+    "ticket_id": "TK22",
+    "customer_id": 100,
+    "issue": "Room film I per challenge receive.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "1981-03-16T08:36:37.338521"
+  },
+  {
+    "ticket_id": "TK23",
+    "customer_id": 37,
+    "issue": "Some may cup will guy nothing school election.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "2018-03-05T04:26:20.370157"
+  },
+  {
+    "ticket_id": "TK24",
+    "customer_id": 32,
+    "issue": "Class wide dream wife parent increase.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2018-12-09T04:35:06.299222"
+  },
+  {
+    "ticket_id": "TK25",
+    "customer_id": 24,
+    "issue": "Throughout serious specific.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "1999-11-01T00:23:02.151989"
+  },
+  {
+    "ticket_id": "TK26",
+    "customer_id": 6,
+    "issue": "War better Democrat state.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "1999-02-08T17:55:04.657707"
+  },
+  {
+    "ticket_id": "TK27",
+    "customer_id": 62,
+    "issue": "Help gun nature six perhaps pick student.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "1971-12-20T05:53:46.519409"
+  },
+  {
+    "ticket_id": "TK28",
+    "customer_id": 88,
+    "issue": "Be listen traditional food ask into.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "2021-08-13T16:45:26.362989"
+  },
+  {
+    "ticket_id": "TK29",
+    "customer_id": 21,
+    "issue": "Lead bank action argue nature.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "2005-06-26T07:56:39.442452"
+  },
+  {
+    "ticket_id": "TK30",
+    "customer_id": 7,
+    "issue": "Spring former my.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "2022-01-18T15:01:33.937258"
+  },
+  {
+    "ticket_id": "TK31",
+    "customer_id": 71,
+    "issue": "They cause car range song.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "1976-06-15T06:19:08.595124"
+  },
+  {
+    "ticket_id": "TK32",
+    "customer_id": 53,
+    "issue": "Issue crime enough executive.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2019-08-24T16:11:04.752960"
+  },
+  {
+    "ticket_id": "TK33",
+    "customer_id": 87,
+    "issue": "Much ball people make line study once way.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "2010-03-18T15:48:13.048562"
+  },
+  {
+    "ticket_id": "TK34",
+    "customer_id": 91,
+    "issue": "Middle firm certain south cut.",
+    "category": "Billing",
+    "status": "closed",
+    "created_at": "2021-07-10T12:04:08.617149"
+  },
+  {
+    "ticket_id": "TK35",
+    "customer_id": 76,
+    "issue": "Actually face against per myself.",
+    "category": "Billing",
+    "status": "closed",
+    "created_at": "1997-02-14T08:44:30.406900"
+  },
+  {
+    "ticket_id": "TK36",
+    "customer_id": 66,
+    "issue": "Left writer apply professional.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "1980-07-12T10:51:59.319447"
+  },
+  {
+    "ticket_id": "TK37",
+    "customer_id": 34,
+    "issue": "Writer none one behavior important others challenge.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2012-08-25T05:14:27.545172"
+  },
+  {
+    "ticket_id": "TK38",
+    "customer_id": 80,
+    "issue": "At trade size sometimes rate shake.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1970-03-29T17:58:11.154359"
+  },
+  {
+    "ticket_id": "TK39",
+    "customer_id": 85,
+    "issue": "Factor house fine a voice.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2017-12-02T11:20:12.927645"
+  },
+  {
+    "ticket_id": "TK40",
+    "customer_id": 18,
+    "issue": "Fish about suggest set deal former.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1974-09-30T07:33:55.162043"
+  },
+  {
+    "ticket_id": "TK41",
+    "customer_id": 39,
+    "issue": "As product surface be book.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "2023-03-19T18:05:40.822293"
+  },
+  {
+    "ticket_id": "TK42",
+    "customer_id": 68,
+    "issue": "Level pass try.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "1988-06-25T02:10:36.501665"
+  },
+  {
+    "ticket_id": "TK43",
+    "customer_id": 98,
+    "issue": "Fill lay grow in bag customer poor ago.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "2022-08-08T15:00:24.723797"
+  },
+  {
+    "ticket_id": "TK44",
+    "customer_id": 6,
+    "issue": "Describe she west hospital size.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "2001-12-15T02:22:24.120205"
+  },
+  {
+    "ticket_id": "TK45",
+    "customer_id": 66,
+    "issue": "Close wear Republican music.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1992-12-15T11:47:14.894492"
+  },
+  {
+    "ticket_id": "TK46",
+    "customer_id": 62,
+    "issue": "Policy they miss evidence.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2013-03-15T18:00:54.985703"
+  },
+  {
+    "ticket_id": "TK47",
+    "customer_id": 93,
+    "issue": "Live realize speak choice house.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "1990-06-28T18:47:26.623491"
+  },
+  {
+    "ticket_id": "TK48",
+    "customer_id": 90,
+    "issue": "Well music agreement.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "1991-11-20T09:17:15.584887"
+  },
+  {
+    "ticket_id": "TK49",
+    "customer_id": 62,
+    "issue": "Always institution herself personal.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "2020-06-27T06:58:21.918431"
+  },
+  {
+    "ticket_id": "TK50",
+    "customer_id": 95,
+    "issue": "Yourself authority yet far be city.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "2004-11-21T17:31:06.634159"
+  },
+  {
+    "ticket_id": "TK51",
+    "customer_id": 12,
+    "issue": "Official nation onto hand avoid even billion again.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1983-07-26T23:09:33.639573"
+  },
+  {
+    "ticket_id": "TK52",
+    "customer_id": 12,
+    "issue": "Wear third cell trade mission claim.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2007-03-23T09:19:03.721422"
+  },
+  {
+    "ticket_id": "TK53",
+    "customer_id": 47,
+    "issue": "Hospital ago economy.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2012-04-11T10:51:38.121475"
+  },
+  {
+    "ticket_id": "TK54",
+    "customer_id": 78,
+    "issue": "Necessary they pick station great how wear listen.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1990-02-21T16:44:01.240095"
+  },
+  {
+    "ticket_id": "TK55",
+    "customer_id": 59,
+    "issue": "Career until far.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2019-06-07T10:50:25.879837"
+  },
+  {
+    "ticket_id": "TK56",
+    "customer_id": 46,
+    "issue": "Simply nearly draw enough begin bank brother.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1984-07-18T00:47:07.177020"
+  },
+  {
+    "ticket_id": "TK57",
+    "customer_id": 70,
+    "issue": "Discover student education picture young.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "1999-12-07T11:05:55.844287"
+  },
+  {
+    "ticket_id": "TK58",
+    "customer_id": 29,
+    "issue": "Thought health finish enjoy.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2016-03-03T11:58:59.114887"
+  },
+  {
+    "ticket_id": "TK59",
+    "customer_id": 61,
+    "issue": "While growth behind sometimes.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2016-12-27T09:08:43.385284"
+  },
+  {
+    "ticket_id": "TK60",
+    "customer_id": 17,
+    "issue": "Television cultural boy buy knowledge among style.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2020-10-04T01:34:03.207879"
+  },
+  {
+    "ticket_id": "TK61",
+    "customer_id": 93,
+    "issue": "Majority table physical.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2015-09-13T13:30:46.194007"
+  },
+  {
+    "ticket_id": "TK62",
+    "customer_id": 75,
+    "issue": "Pull pay computer teach.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "1992-05-26T16:45:20.089650"
+  },
+  {
+    "ticket_id": "TK63",
+    "customer_id": 1,
+    "issue": "Skill rather tell themselves lose radio mouth.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2005-03-24T07:09:51.523757"
+  },
+  {
+    "ticket_id": "TK64",
+    "customer_id": 91,
+    "issue": "Trial attention ten support friend none series.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "1971-06-12T14:17:41.487272"
+  },
+  {
+    "ticket_id": "TK65",
+    "customer_id": 83,
+    "issue": "Loss alone push bank.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "1994-10-12T03:33:10.188014"
+  },
+  {
+    "ticket_id": "TK66",
+    "customer_id": 34,
+    "issue": "Case success base charge long commercial.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "1993-03-21T15:19:04.565965"
+  },
+  {
+    "ticket_id": "TK67",
+    "customer_id": 21,
+    "issue": "Court personal people institution.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "2016-09-18T10:44:53.138669"
+  },
+  {
+    "ticket_id": "TK68",
+    "customer_id": 7,
+    "issue": "They hot matter one artist set prove.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1984-08-28T07:15:01.880609"
+  },
+  {
+    "ticket_id": "TK69",
+    "customer_id": 11,
+    "issue": "Scene simply yeah least soon discuss.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "1974-09-13T22:55:28.943998"
+  },
+  {
+    "ticket_id": "TK70",
+    "customer_id": 42,
+    "issue": "Southern exist between whole.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "1993-02-18T12:17:40.596421"
+  },
+  {
+    "ticket_id": "TK71",
+    "customer_id": 70,
+    "issue": "Company though college thus Mrs time bar.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "2017-03-25T06:58:50.043337"
+  },
+  {
+    "ticket_id": "TK72",
+    "customer_id": 78,
+    "issue": "Another compare leave purpose.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1988-12-06T20:32:09.169863"
+  },
+  {
+    "ticket_id": "TK73",
+    "customer_id": 71,
+    "issue": "First easy time third.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2016-05-02T21:15:44.580866"
+  },
+  {
+    "ticket_id": "TK74",
+    "customer_id": 65,
+    "issue": "Collection meeting up specific international.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "1975-07-19T14:06:43.934478"
+  },
+  {
+    "ticket_id": "TK75",
+    "customer_id": 67,
+    "issue": "Democrat project take fast financial find seek decide.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "1997-08-02T14:01:13.162917"
+  },
+  {
+    "ticket_id": "TK76",
+    "customer_id": 7,
+    "issue": "Program ok development.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "1990-02-26T06:28:38.542800"
+  },
+  {
+    "ticket_id": "TK77",
+    "customer_id": 63,
+    "issue": "Medical admit turn.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "2008-02-25T08:13:44.110053"
+  },
+  {
+    "ticket_id": "TK78",
+    "customer_id": 37,
+    "issue": "During city past throughout similar watch.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1993-03-21T17:51:25.407684"
+  },
+  {
+    "ticket_id": "TK79",
+    "customer_id": 4,
+    "issue": "Because case me ready democratic garden.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "2009-09-26T15:46:32.277678"
+  },
+  {
+    "ticket_id": "TK80",
+    "customer_id": 25,
+    "issue": "Risk low guy.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "1990-07-15T08:58:17.375853"
+  },
+  {
+    "ticket_id": "TK81",
+    "customer_id": 19,
+    "issue": "Look decade have sit concern drug stock term.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1998-07-12T18:40:19.544684"
+  },
+  {
+    "ticket_id": "TK82",
+    "customer_id": 27,
+    "issue": "Article answer ground poor.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "1976-04-10T05:44:31.172088"
+  },
+  {
+    "ticket_id": "TK83",
+    "customer_id": 15,
+    "issue": "City wind forward really free where seat.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "2017-05-23T06:01:09.587031"
+  },
+  {
+    "ticket_id": "TK84",
+    "customer_id": 78,
+    "issue": "Training operation consider trade.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "1991-11-10T03:47:41.047716"
+  },
+  {
+    "ticket_id": "TK85",
+    "customer_id": 17,
+    "issue": "Case performance choose the baby year.",
+    "category": "Technical",
+    "status": "closed",
+    "created_at": "2016-02-24T08:23:22.468505"
+  },
+  {
+    "ticket_id": "TK86",
+    "customer_id": 65,
+    "issue": "Way book they but.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2008-05-20T01:33:57.566112"
+  },
+  {
+    "ticket_id": "TK87",
+    "customer_id": 17,
+    "issue": "Along attorney television political.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "2016-06-12T18:12:31.801627"
+  },
+  {
+    "ticket_id": "TK88",
+    "customer_id": 8,
+    "issue": "Often bag think thank TV themselves last pay.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2001-03-14T19:17:03.814565"
+  },
+  {
+    "ticket_id": "TK89",
+    "customer_id": 29,
+    "issue": "Their discover understand although or discover.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2001-01-08T02:17:19.252976"
+  },
+  {
+    "ticket_id": "TK90",
+    "customer_id": 43,
+    "issue": "Student protect try.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "1997-01-08T14:53:25.210630"
+  },
+  {
+    "ticket_id": "TK91",
+    "customer_id": 66,
+    "issue": "Although machine mention know tough.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2017-03-19T12:38:45.589227"
+  },
+  {
+    "ticket_id": "TK92",
+    "customer_id": 66,
+    "issue": "Once term ball fight share actually source.",
+    "category": "Billing",
+    "status": "in_progress",
+    "created_at": "1976-11-08T12:19:13.191521"
+  },
+  {
+    "ticket_id": "TK93",
+    "customer_id": 29,
+    "issue": "Practice market low.",
+    "category": "Account",
+    "status": "closed",
+    "created_at": "2009-12-31T18:05:26.299908"
+  },
+  {
+    "ticket_id": "TK94",
+    "customer_id": 52,
+    "issue": "Box rest sure easy soon production toward.",
+    "category": "Account",
+    "status": "in_progress",
+    "created_at": "1987-10-13T03:58:05.401036"
+  },
+  {
+    "ticket_id": "TK95",
+    "customer_id": 70,
+    "issue": "Growth particularly language notice administration.",
+    "category": "Billing",
+    "status": "open",
+    "created_at": "2024-10-26T12:40:23.893866"
+  },
+  {
+    "ticket_id": "TK96",
+    "customer_id": 47,
+    "issue": "Charge wish under front.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2001-01-11T19:11:50.575171"
+  },
+  {
+    "ticket_id": "TK97",
+    "customer_id": 32,
+    "issue": "Argue surface recognize take wish tend perform.",
+    "category": "Technical",
+    "status": "open",
+    "created_at": "1973-07-12T02:24:19.422433"
+  },
+  {
+    "ticket_id": "TK98",
+    "customer_id": 84,
+    "issue": "White attention design her former director.",
+    "category": "Account",
+    "status": "open",
+    "created_at": "2012-06-11T05:33:05.577571"
+  },
+  {
+    "ticket_id": "TK99",
+    "customer_id": 84,
+    "issue": "Society outside nothing himself left skin serious begin.",
+    "category": "Technical",
+    "status": "in_progress",
+    "created_at": "2013-10-01T14:14:23.326888"
+  }
+]
